@@ -1,4 +1,5 @@
 #!/bin/bash
+as;dlfkjas;ldkfja;lsdkfja;lskfdj
 
 # You would typically only have to run this if the ATLAS libraries are not
 # already installed on your system... i.e. only after you have tried to
